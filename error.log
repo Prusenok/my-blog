@@ -1,0 +1,479 @@
+[2018-02-02 12:12:37 +0300] [32049] [INFO] Starting gunicorn 19.7.1
+[2018-02-02 12:12:37 +0300] [32049] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (32049)
+[2018-02-02 12:12:37 +0300] [32049] [INFO] Using worker: sync
+[2018-02-02 12:12:37 +0300] [32055] [INFO] Booting worker with pid: 32055
+[2018-02-02 12:12:37 +0300] [32056] [INFO] Booting worker with pid: 32056
+[2018-02-02 12:54:47 +0300] [32049] [INFO] Handling signal: term
+[2018-02-02 09:54:47 +0000] [32056] [INFO] Worker exiting (pid: 32056)
+[2018-02-02 09:54:47 +0000] [32055] [INFO] Worker exiting (pid: 32055)
+[2018-02-02 12:54:47 +0300] [32049] [INFO] Shutting down: Master
+[2018-02-02 12:54:47 +0300] [32373] [INFO] Starting gunicorn 19.7.1
+[2018-02-02 12:54:47 +0300] [32373] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (32373)
+[2018-02-02 12:54:47 +0300] [32373] [INFO] Using worker: sync
+[2018-02-02 12:54:47 +0300] [32379] [INFO] Booting worker with pid: 32379
+[2018-02-02 12:54:47 +0300] [32380] [INFO] Booting worker with pid: 32380
+[2018-02-02 11:23:52 +0000] [32379] [INFO] Worker exiting (pid: 32379)
+[2018-02-02 11:23:52 +0000] [32380] [INFO] Worker exiting (pid: 32380)
+[2018-02-02 14:23:52 +0300] [32373] [INFO] Handling signal: term
+[2018-02-02 14:23:52 +0300] [32373] [INFO] Shutting down: Master
+[2018-02-02 14:23:52 +0300] [2811] [INFO] Starting gunicorn 19.7.1
+[2018-02-02 14:23:52 +0300] [2811] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (2811)
+[2018-02-02 14:23:52 +0300] [2811] [INFO] Using worker: sync
+[2018-02-02 14:23:52 +0300] [2817] [INFO] Booting worker with pid: 2817
+[2018-02-02 14:23:52 +0300] [2819] [INFO] Booting worker with pid: 2819
+[2018-02-02 18:37:50 +0300] [2811] [INFO] Handling signal: term
+[2018-02-02 18:37:50 +0300] [2817] [INFO] Worker exiting (pid: 2817)
+[2018-02-02 18:37:50 +0300] [2819] [INFO] Worker exiting (pid: 2819)
+[2018-02-02 18:37:51 +0300] [2811] [INFO] Shutting down: Master
+[2018-02-02 18:37:51 +0300] [3773] [INFO] Starting gunicorn 19.7.1
+[2018-02-02 18:37:51 +0300] [3773] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (3773)
+[2018-02-02 18:37:51 +0300] [3773] [INFO] Using worker: sync
+[2018-02-02 18:37:51 +0300] [3779] [INFO] Booting worker with pid: 3779
+[2018-02-02 18:37:51 +0300] [3781] [INFO] Booting worker with pid: 3781
+[2018-02-02 18:38:29 +0300] [3773] [INFO] Handling signal: term
+[2018-02-02 18:38:29 +0300] [3779] [INFO] Worker exiting (pid: 3779)
+[2018-02-02 18:38:29 +0300] [3781] [INFO] Worker exiting (pid: 3781)
+[2018-02-02 18:38:29 +0300] [3773] [INFO] Shutting down: Master
+[2018-02-02 18:38:29 +0300] [3799] [INFO] Starting gunicorn 19.7.1
+[2018-02-02 18:38:29 +0300] [3799] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (3799)
+[2018-02-02 18:38:29 +0300] [3799] [INFO] Using worker: sync
+[2018-02-02 18:38:29 +0300] [3806] [INFO] Booting worker with pid: 3806
+[2018-02-02 18:38:29 +0300] [3808] [INFO] Booting worker with pid: 3808
+[2018-02-05 09:52:06 +0300] [3799] [INFO] Handling signal: term
+[2018-02-05 09:52:06 +0300] [3808] [INFO] Worker exiting (pid: 3808)
+[2018-02-05 09:52:06 +0300] [3806] [INFO] Worker exiting (pid: 3806)
+[2018-02-05 09:52:06 +0300] [3799] [INFO] Shutting down: Master
+[2018-02-05 09:52:07 +0300] [16279] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 09:52:07 +0300] [16279] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16279)
+[2018-02-05 09:52:07 +0300] [16279] [INFO] Using worker: sync
+[2018-02-05 09:52:07 +0300] [16285] [INFO] Booting worker with pid: 16285
+[2018-02-05 09:52:07 +0300] [16287] [INFO] Booting worker with pid: 16287
+[2018-02-05 09:52:58 +0300] [16279] [INFO] Handling signal: term
+[2018-02-05 09:52:58 +0300] [16285] [INFO] Worker exiting (pid: 16285)
+[2018-02-05 09:52:58 +0300] [16287] [INFO] Worker exiting (pid: 16287)
+[2018-02-05 09:52:58 +0300] [16279] [INFO] Shutting down: Master
+[2018-02-05 09:52:58 +0300] [16298] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 09:52:58 +0300] [16298] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16298)
+[2018-02-05 09:52:58 +0300] [16298] [INFO] Using worker: sync
+[2018-02-05 09:52:58 +0300] [16305] [INFO] Booting worker with pid: 16305
+[2018-02-05 09:52:58 +0300] [16307] [INFO] Booting worker with pid: 16307
+[2018-02-05 09:54:53 +0300] [16298] [INFO] Handling signal: term
+[2018-02-05 09:54:53 +0300] [16305] [INFO] Worker exiting (pid: 16305)
+[2018-02-05 09:54:53 +0300] [16307] [INFO] Worker exiting (pid: 16307)
+[2018-02-05 09:54:53 +0300] [16298] [INFO] Shutting down: Master
+[2018-02-05 09:54:53 +0300] [16323] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 09:54:53 +0300] [16323] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16323)
+[2018-02-05 09:54:53 +0300] [16323] [INFO] Using worker: sync
+[2018-02-05 09:54:53 +0300] [16329] [INFO] Booting worker with pid: 16329
+[2018-02-05 09:54:53 +0300] [16330] [INFO] Booting worker with pid: 16330
+[2018-02-05 09:56:13 +0300] [16323] [INFO] Handling signal: term
+[2018-02-05 09:56:13 +0300] [16329] [INFO] Worker exiting (pid: 16329)
+[2018-02-05 09:56:13 +0300] [16330] [INFO] Worker exiting (pid: 16330)
+[2018-02-05 09:56:13 +0300] [16323] [INFO] Shutting down: Master
+[2018-02-05 09:56:13 +0300] [16346] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 09:56:13 +0300] [16346] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16346)
+[2018-02-05 09:56:13 +0300] [16346] [INFO] Using worker: sync
+[2018-02-05 09:56:13 +0300] [16351] [INFO] Booting worker with pid: 16351
+[2018-02-05 09:56:13 +0300] [16352] [INFO] Booting worker with pid: 16352
+[2018-02-05 09:57:39 +0300] [16346] [INFO] Handling signal: term
+[2018-02-05 09:57:39 +0300] [16352] [INFO] Worker exiting (pid: 16352)
+[2018-02-05 09:57:39 +0300] [16351] [INFO] Worker exiting (pid: 16351)
+[2018-02-05 09:57:39 +0300] [16346] [INFO] Shutting down: Master
+[2018-02-05 09:57:39 +0300] [16369] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 09:57:39 +0300] [16369] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16369)
+[2018-02-05 09:57:39 +0300] [16369] [INFO] Using worker: sync
+[2018-02-05 09:57:39 +0300] [16375] [INFO] Booting worker with pid: 16375
+[2018-02-05 09:57:40 +0300] [16377] [INFO] Booting worker with pid: 16377
+[2018-02-05 10:06:46 +0300] [16369] [INFO] Handling signal: term
+[2018-02-05 10:06:46 +0300] [16377] [INFO] Worker exiting (pid: 16377)
+[2018-02-05 10:06:46 +0300] [16375] [INFO] Worker exiting (pid: 16375)
+[2018-02-05 10:06:46 +0300] [16369] [INFO] Shutting down: Master
+[2018-02-05 10:06:46 +0300] [16576] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 10:06:46 +0300] [16576] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16576)
+[2018-02-05 10:06:46 +0300] [16576] [INFO] Using worker: sync
+[2018-02-05 10:06:46 +0300] [16582] [INFO] Booting worker with pid: 16582
+[2018-02-05 10:06:46 +0300] [16584] [INFO] Booting worker with pid: 16584
+[2018-02-05 10:06:46 +0300] [16582] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 5, in <module>
+    class Post(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 6, in Post
+    author = models.ForeignKey('auth.User')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-05 10:06:46 +0300] [16582] [INFO] Worker exiting (pid: 16582)
+[2018-02-05 10:06:47 +0300] [16584] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 5, in <module>
+    class Post(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 6, in Post
+    author = models.ForeignKey('auth.User')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-05 10:06:47 +0300] [16584] [INFO] Worker exiting (pid: 16584)
+[2018-02-05 10:06:47 +0300] [16576] [INFO] Shutting down: Master
+[2018-02-05 10:06:47 +0300] [16576] [INFO] Reason: Worker failed to boot.
+[2018-02-05 10:13:12 +0300] [16638] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 10:13:12 +0300] [16638] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16638)
+[2018-02-05 10:13:12 +0300] [16638] [INFO] Using worker: sync
+[2018-02-05 10:13:12 +0300] [16644] [INFO] Booting worker with pid: 16644
+[2018-02-05 10:13:12 +0300] [16646] [INFO] Booting worker with pid: 16646
+[2018-02-05 10:13:13 +0300] [16644] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 5, in <module>
+    class Post(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 6, in Post
+    author = models.ForeignKey('auth.User')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-05 10:13:13 +0300] [16644] [INFO] Worker exiting (pid: 16644)
+[2018-02-05 10:13:13 +0300] [16646] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 5, in <module>
+    class Post(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 6, in Post
+    author = models.ForeignKey('auth.User')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-05 10:13:13 +0300] [16646] [INFO] Worker exiting (pid: 16646)
+[2018-02-05 10:13:13 +0300] [16638] [INFO] Shutting down: Master
+[2018-02-05 10:13:13 +0300] [16638] [INFO] Reason: Worker failed to boot.
+[2018-02-05 11:26:21 +0300] [16897] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 11:26:21 +0300] [16897] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16897)
+[2018-02-05 11:26:21 +0300] [16897] [INFO] Using worker: sync
+[2018-02-05 11:26:21 +0300] [16903] [INFO] Booting worker with pid: 16903
+[2018-02-05 11:26:22 +0300] [16904] [INFO] Booting worker with pid: 16904
+[2018-02-05 11:26:22 +0300] [16903] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 4, in <module>
+    class Post(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 5, in Post
+    author = models.ForeignKey('auth.User')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-05 11:26:22 +0300] [16903] [INFO] Worker exiting (pid: 16903)
+[2018-02-05 11:26:22 +0300] [16904] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 4, in <module>
+    class Post(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 5, in Post
+    author = models.ForeignKey('auth.User')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-05 11:26:22 +0300] [16904] [INFO] Worker exiting (pid: 16904)
+[2018-02-05 11:26:22 +0300] [16897] [INFO] Shutting down: Master
+[2018-02-05 11:26:22 +0300] [16897] [INFO] Reason: Worker failed to boot.
+[2018-02-05 11:28:40 +0300] [16994] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 11:28:40 +0300] [16994] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16994)
+[2018-02-05 11:28:40 +0300] [16994] [INFO] Using worker: sync
+[2018-02-05 11:28:40 +0300] [16999] [INFO] Booting worker with pid: 16999
+[2018-02-05 11:28:40 +0300] [17000] [INFO] Booting worker with pid: 17000
+[2018-02-05 11:28:41 +0300] [16999] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 5, in <module>
+    class Post(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 6, in Post
+    author = models.ForeignKey('auth.User')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-05 11:28:41 +0300] [16999] [INFO] Worker exiting (pid: 16999)
+[2018-02-05 11:28:41 +0300] [17000] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 5, in <module>
+    class Post(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 6, in Post
+    author = models.ForeignKey('auth.User')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-05 11:28:41 +0300] [17000] [INFO] Worker exiting (pid: 17000)
+[2018-02-05 11:28:41 +0300] [16994] [INFO] Shutting down: Master
+[2018-02-05 11:28:41 +0300] [16994] [INFO] Reason: Worker failed to boot.
+[2018-02-05 11:29:31 +0300] [17018] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 11:29:31 +0300] [17018] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (17018)
+[2018-02-05 11:29:31 +0300] [17018] [INFO] Using worker: sync
+[2018-02-05 11:29:31 +0300] [17023] [INFO] Booting worker with pid: 17023
+[2018-02-05 11:29:31 +0300] [17024] [INFO] Booting worker with pid: 17024
+[2018-02-05 11:29:31 +0300] [17023] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 5, in <module>
+    class Post(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 6, in Post
+    author = models.ForeignKey('auth.User')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-05 11:29:31 +0300] [17023] [INFO] Worker exiting (pid: 17023)
+[2018-02-05 11:29:31 +0300] [17024] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 5, in <module>
+    class Post(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 6, in Post
+    author = models.ForeignKey('auth.User')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-05 11:29:31 +0300] [17024] [INFO] Worker exiting (pid: 17024)
+[2018-02-05 11:29:31 +0300] [17018] [INFO] Shutting down: Master
+[2018-02-05 11:29:31 +0300] [17018] [INFO] Reason: Worker failed to boot.
+[2018-02-05 11:34:21 +0300] [17117] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 11:34:21 +0300] [17117] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (17117)
+[2018-02-05 11:34:21 +0300] [17117] [INFO] Using worker: sync
+[2018-02-05 11:34:21 +0300] [17123] [INFO] Booting worker with pid: 17123
+[2018-02-05 11:34:21 +0300] [17125] [INFO] Booting worker with pid: 17125
+[2018-02-05 11:36:24 +0300] [17117] [INFO] Handling signal: term
+[2018-02-05 11:36:24 +0300] [17123] [INFO] Worker exiting (pid: 17123)
+[2018-02-05 11:36:24 +0300] [17125] [INFO] Worker exiting (pid: 17125)
+[2018-02-05 11:36:24 +0300] [17117] [INFO] Shutting down: Master
+[2018-02-05 11:36:24 +0300] [17175] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 11:36:24 +0300] [17175] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (17175)
+[2018-02-05 11:36:24 +0300] [17175] [INFO] Using worker: sync
+[2018-02-05 11:36:24 +0300] [17181] [INFO] Booting worker with pid: 17181
+[2018-02-05 11:36:24 +0300] [17182] [INFO] Booting worker with pid: 17182
