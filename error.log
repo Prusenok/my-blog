@@ -621,3 +621,102 @@ TypeError: __init__() missing 1 required positional argument: 'on_delete'
 [2018-02-06 12:35:36 +0300] [2565] [INFO] Using worker: sync
 [2018-02-06 12:35:36 +0300] [2570] [INFO] Booting worker with pid: 2570
 [2018-02-06 12:35:37 +0300] [2571] [INFO] Booting worker with pid: 2571
+[2018-02-06 13:03:54 +0300] [2570] [INFO] Worker exiting (pid: 2570)
+[2018-02-06 13:03:54 +0300] [2571] [INFO] Worker exiting (pid: 2571)
+[2018-02-06 13:03:55 +0300] [2565] [INFO] Handling signal: term
+[2018-02-06 13:03:55 +0300] [2565] [INFO] Shutting down: Master
+[2018-02-06 13:03:55 +0300] [3496] [INFO] Starting gunicorn 19.7.1
+[2018-02-06 13:03:55 +0300] [3496] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (3496)
+[2018-02-06 13:03:55 +0300] [3496] [INFO] Using worker: sync
+[2018-02-06 13:03:55 +0300] [3502] [INFO] Booting worker with pid: 3502
+[2018-02-06 13:03:55 +0300] [3503] [INFO] Booting worker with pid: 3503
+[2018-02-06 13:07:58 +0300] [3503] [INFO] Worker exiting (pid: 3503)
+[2018-02-06 13:07:58 +0300] [3502] [INFO] Worker exiting (pid: 3502)
+[2018-02-06 13:07:58 +0300] [3496] [INFO] Handling signal: term
+[2018-02-06 13:07:59 +0300] [3496] [INFO] Shutting down: Master
+[2018-02-06 13:07:59 +0300] [3560] [INFO] Starting gunicorn 19.7.1
+[2018-02-06 13:07:59 +0300] [3560] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (3560)
+[2018-02-06 13:07:59 +0300] [3560] [INFO] Using worker: sync
+[2018-02-06 13:07:59 +0300] [3566] [INFO] Booting worker with pid: 3566
+[2018-02-06 13:07:59 +0300] [3567] [INFO] Booting worker with pid: 3567
+[2018-02-06 13:11:59 +0300] [3566] [INFO] Worker exiting (pid: 3566)
+[2018-02-06 13:11:59 +0300] [3567] [INFO] Worker exiting (pid: 3567)
+[2018-02-06 13:11:59 +0300] [3560] [INFO] Handling signal: term
+[2018-02-06 13:11:59 +0300] [3560] [INFO] Shutting down: Master
+[2018-02-06 13:11:59 +0300] [3591] [INFO] Starting gunicorn 19.7.1
+[2018-02-06 13:11:59 +0300] [3591] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (3591)
+[2018-02-06 13:11:59 +0300] [3591] [INFO] Using worker: sync
+[2018-02-06 13:11:59 +0300] [3598] [INFO] Booting worker with pid: 3598
+[2018-02-06 13:11:59 +0300] [3600] [INFO] Booting worker with pid: 3600
+[2018-02-06 13:14:29 +0300] [3598] [INFO] Worker exiting (pid: 3598)
+[2018-02-06 13:14:29 +0300] [3600] [INFO] Worker exiting (pid: 3600)
+[2018-02-06 13:14:29 +0300] [3591] [INFO] Handling signal: term
+[2018-02-06 13:14:29 +0300] [3591] [INFO] Shutting down: Master
+[2018-02-06 13:14:29 +0300] [3629] [INFO] Starting gunicorn 19.7.1
+[2018-02-06 13:14:29 +0300] [3629] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (3629)
+[2018-02-06 13:14:29 +0300] [3629] [INFO] Using worker: sync
+[2018-02-06 13:14:29 +0300] [3634] [INFO] Booting worker with pid: 3634
+[2018-02-06 13:14:29 +0300] [3636] [INFO] Booting worker with pid: 3636
+[2018-02-06 13:16:14 +0300] [3629] [INFO] Handling signal: term
+[2018-02-06 13:16:14 +0300] [3636] [INFO] Worker exiting (pid: 3636)
+[2018-02-06 13:16:14 +0300] [3634] [INFO] Worker exiting (pid: 3634)
+[2018-02-06 13:16:14 +0300] [3629] [INFO] Shutting down: Master
+[2018-02-06 13:16:14 +0300] [3677] [INFO] Starting gunicorn 19.7.1
+[2018-02-06 13:16:14 +0300] [3677] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (3677)
+[2018-02-06 13:16:14 +0300] [3677] [INFO] Using worker: sync
+[2018-02-06 13:16:14 +0300] [3683] [INFO] Booting worker with pid: 3683
+[2018-02-06 13:16:14 +0300] [3684] [INFO] Booting worker with pid: 3684
+[2018-02-06 13:16:15 +0300] [3677] [INFO] Handling signal: term
+[2018-02-06 13:16:15 +0300] [3683] [INFO] Worker exiting (pid: 3683)
+[2018-02-06 13:16:15 +0300] [3684] [INFO] Worker exiting (pid: 3684)
+[2018-02-06 13:16:15 +0300] [3677] [INFO] Shutting down: Master
+[2018-02-06 13:16:15 +0300] [3693] [INFO] Starting gunicorn 19.7.1
+[2018-02-06 13:16:15 +0300] [3693] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (3693)
+[2018-02-06 13:16:15 +0300] [3693] [INFO] Using worker: sync
+[2018-02-06 13:16:15 +0300] [3698] [INFO] Booting worker with pid: 3698
+[2018-02-06 13:16:16 +0300] [3699] [INFO] Booting worker with pid: 3699
+[2018-02-06 13:16:16 +0300] [3693] [INFO] Handling signal: term
+[2018-02-06 13:16:16 +0300] [3699] [INFO] Worker exiting (pid: 3699)
+[2018-02-06 13:16:16 +0300] [3698] [INFO] Worker exiting (pid: 3698)
+[2018-02-06 13:16:16 +0300] [3693] [INFO] Shutting down: Master
+[2018-02-06 13:16:16 +0300] [3707] [INFO] Starting gunicorn 19.7.1
+[2018-02-06 13:16:16 +0300] [3707] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (3707)
+[2018-02-06 13:16:16 +0300] [3707] [INFO] Using worker: sync
+[2018-02-06 13:16:16 +0300] [3713] [INFO] Booting worker with pid: 3713
+[2018-02-06 13:16:17 +0300] [3715] [INFO] Booting worker with pid: 3715
+[2018-02-06 13:21:21 +0300] [3713] [INFO] Worker exiting (pid: 3713)
+[2018-02-06 13:21:21 +0300] [3715] [INFO] Worker exiting (pid: 3715)
+[2018-02-06 13:21:21 +0300] [3707] [INFO] Handling signal: term
+[2018-02-06 13:21:21 +0300] [3707] [INFO] Shutting down: Master
+[2018-02-06 13:21:21 +0300] [3743] [INFO] Starting gunicorn 19.7.1
+[2018-02-06 13:21:21 +0300] [3743] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (3743)
+[2018-02-06 13:21:21 +0300] [3743] [INFO] Using worker: sync
+[2018-02-06 13:21:21 +0300] [3749] [INFO] Booting worker with pid: 3749
+[2018-02-06 13:21:22 +0300] [3751] [INFO] Booting worker with pid: 3751
+[2018-02-08 10:15:54 +0300] [3743] [INFO] Handling signal: term
+[2018-02-08 10:15:54 +0300] [3751] [INFO] Worker exiting (pid: 3751)
+[2018-02-08 10:15:54 +0300] [3749] [INFO] Worker exiting (pid: 3749)
+[2018-02-08 10:15:54 +0300] [3743] [INFO] Shutting down: Master
+[2018-02-08 10:15:54 +0300] [12979] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 10:15:54 +0300] [12979] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (12979)
+[2018-02-08 10:15:54 +0300] [12979] [INFO] Using worker: sync
+[2018-02-08 10:15:54 +0300] [12984] [INFO] Booting worker with pid: 12984
+[2018-02-08 10:15:54 +0300] [12985] [INFO] Booting worker with pid: 12985
+[2018-02-08 10:34:47 +0300] [12985] [INFO] Worker exiting (pid: 12985)
+[2018-02-08 10:34:47 +0300] [12984] [INFO] Worker exiting (pid: 12984)
+[2018-02-08 10:34:47 +0300] [12979] [INFO] Handling signal: term
+[2018-02-08 10:34:47 +0300] [12979] [INFO] Shutting down: Master
+[2018-02-08 10:34:48 +0300] [13070] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 10:34:48 +0300] [13070] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (13070)
+[2018-02-08 10:34:48 +0300] [13070] [INFO] Using worker: sync
+[2018-02-08 10:34:48 +0300] [13076] [INFO] Booting worker with pid: 13076
+[2018-02-08 10:34:48 +0300] [13077] [INFO] Booting worker with pid: 13077
+[2018-02-08 10:56:34 +0300] [13070] [INFO] Handling signal: term
+[2018-02-08 10:56:34 +0300] [13076] [INFO] Worker exiting (pid: 13076)
+[2018-02-08 10:56:34 +0300] [13077] [INFO] Worker exiting (pid: 13077)
+[2018-02-08 10:56:34 +0300] [13070] [INFO] Shutting down: Master
+[2018-02-08 10:56:34 +0300] [13222] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 10:56:34 +0300] [13222] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (13222)
+[2018-02-08 10:56:34 +0300] [13222] [INFO] Using worker: sync
+[2018-02-08 10:56:34 +0300] [13228] [INFO] Booting worker with pid: 13228
+[2018-02-08 10:56:34 +0300] [13229] [INFO] Booting worker with pid: 13229
