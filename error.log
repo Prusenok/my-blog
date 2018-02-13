@@ -819,3 +819,403 @@ TypeError: __init__() missing 1 required positional argument: 'on_delete'
 [2018-02-08 13:22:46 +0300] [14321] [INFO] Using worker: sync
 [2018-02-08 13:22:46 +0300] [14328] [INFO] Booting worker with pid: 14328
 [2018-02-08 13:22:46 +0300] [14329] [INFO] Booting worker with pid: 14329
+[2018-02-08 15:19:19 +0300] [14321] [INFO] Handling signal: term
+[2018-02-08 15:19:19 +0300] [14328] [INFO] Worker exiting (pid: 14328)
+[2018-02-08 15:19:19 +0300] [14329] [INFO] Worker exiting (pid: 14329)
+[2018-02-08 15:19:19 +0300] [14321] [INFO] Shutting down: Master
+[2018-02-08 15:19:19 +0300] [14990] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 15:19:19 +0300] [14990] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (14990)
+[2018-02-08 15:19:19 +0300] [14990] [INFO] Using worker: sync
+[2018-02-08 15:19:19 +0300] [14995] [INFO] Booting worker with pid: 14995
+[2018-02-08 15:19:19 +0300] [14997] [INFO] Booting worker with pid: 14997
+[2018-02-08 15:36:11 +0300] [14995] [INFO] Worker exiting (pid: 14995)
+[2018-02-08 15:36:11 +0300] [14997] [INFO] Worker exiting (pid: 14997)
+[2018-02-08 15:36:11 +0300] [14990] [INFO] Handling signal: term
+[2018-02-08 15:36:11 +0300] [14990] [INFO] Shutting down: Master
+[2018-02-08 15:36:11 +0300] [15062] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 15:36:11 +0300] [15062] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (15062)
+[2018-02-08 15:36:11 +0300] [15062] [INFO] Using worker: sync
+[2018-02-08 15:36:11 +0300] [15068] [INFO] Booting worker with pid: 15068
+[2018-02-08 15:36:11 +0300] [15070] [INFO] Booting worker with pid: 15070
+[2018-02-08 15:37:59 +0300] [15068] [INFO] Worker exiting (pid: 15068)
+[2018-02-08 15:37:59 +0300] [15070] [INFO] Worker exiting (pid: 15070)
+[2018-02-08 15:37:59 +0300] [15062] [INFO] Handling signal: term
+[2018-02-08 15:37:59 +0300] [15062] [INFO] Shutting down: Master
+[2018-02-08 15:37:59 +0300] [15120] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 15:37:59 +0300] [15120] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (15120)
+[2018-02-08 15:37:59 +0300] [15120] [INFO] Using worker: sync
+[2018-02-08 15:37:59 +0300] [15126] [INFO] Booting worker with pid: 15126
+[2018-02-08 15:37:59 +0300] [15128] [INFO] Booting worker with pid: 15128
+[2018-02-08 15:41:29 +0300] [15128] [INFO] Worker exiting (pid: 15128)
+[2018-02-08 15:41:29 +0300] [15120] [INFO] Handling signal: term
+[2018-02-08 15:41:29 +0300] [15126] [INFO] Worker exiting (pid: 15126)
+[2018-02-08 15:41:29 +0300] [15120] [INFO] Shutting down: Master
+[2018-02-08 15:41:30 +0300] [15253] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 15:41:30 +0300] [15253] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (15253)
+[2018-02-08 15:41:30 +0300] [15253] [INFO] Using worker: sync
+[2018-02-08 15:41:30 +0300] [15258] [INFO] Booting worker with pid: 15258
+[2018-02-08 15:41:30 +0300] [15259] [INFO] Booting worker with pid: 15259
+[2018-02-08 18:09:13 +0300] [15253] [INFO] Handling signal: term
+[2018-02-08 18:09:13 +0300] [15258] [INFO] Worker exiting (pid: 15258)
+[2018-02-08 18:09:13 +0300] [15259] [INFO] Worker exiting (pid: 15259)
+[2018-02-08 18:09:13 +0300] [15253] [INFO] Shutting down: Master
+[2018-02-08 18:09:14 +0300] [15985] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 18:09:14 +0300] [15985] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (15985)
+[2018-02-08 18:09:14 +0300] [15985] [INFO] Using worker: sync
+[2018-02-08 18:09:14 +0300] [15991] [INFO] Booting worker with pid: 15991
+[2018-02-08 18:09:14 +0300] [15993] [INFO] Booting worker with pid: 15993
+[2018-02-08 18:18:06 +0300] [15991] [INFO] Worker exiting (pid: 15991)
+[2018-02-08 18:18:06 +0300] [15993] [INFO] Worker exiting (pid: 15993)
+[2018-02-08 18:18:06 +0300] [15985] [INFO] Handling signal: term
+[2018-02-08 18:18:06 +0300] [15985] [INFO] Shutting down: Master
+[2018-02-08 18:18:07 +0300] [16141] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 18:18:07 +0300] [16141] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16141)
+[2018-02-08 18:18:07 +0300] [16141] [INFO] Using worker: sync
+[2018-02-08 18:18:07 +0300] [16147] [INFO] Booting worker with pid: 16147
+[2018-02-08 18:18:07 +0300] [16148] [INFO] Booting worker with pid: 16148
+[2018-02-08 18:21:15 +0300] [16141] [INFO] Handling signal: term
+[2018-02-08 18:21:15 +0300] [16147] [INFO] Worker exiting (pid: 16147)
+[2018-02-08 18:21:15 +0300] [16148] [INFO] Worker exiting (pid: 16148)
+[2018-02-08 18:21:15 +0300] [16141] [INFO] Shutting down: Master
+[2018-02-08 18:21:16 +0300] [16185] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 18:21:16 +0300] [16185] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16185)
+[2018-02-08 18:21:16 +0300] [16185] [INFO] Using worker: sync
+[2018-02-08 18:21:16 +0300] [16192] [INFO] Booting worker with pid: 16192
+[2018-02-08 18:21:16 +0300] [16193] [INFO] Booting worker with pid: 16193
+[2018-02-08 18:22:58 +0300] [16192] [INFO] Worker exiting (pid: 16192)
+[2018-02-08 18:22:58 +0300] [16193] [INFO] Worker exiting (pid: 16193)
+[2018-02-08 18:22:58 +0300] [16185] [INFO] Handling signal: term
+[2018-02-08 18:22:58 +0300] [16185] [INFO] Shutting down: Master
+[2018-02-08 18:22:58 +0300] [16242] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 18:22:58 +0300] [16242] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16242)
+[2018-02-08 18:22:58 +0300] [16242] [INFO] Using worker: sync
+[2018-02-08 18:22:58 +0300] [16247] [INFO] Booting worker with pid: 16247
+[2018-02-08 18:22:58 +0300] [16248] [INFO] Booting worker with pid: 16248
+[2018-02-08 18:49:44 +0300] [16242] [INFO] Handling signal: term
+[2018-02-08 18:49:44 +0300] [16247] [INFO] Worker exiting (pid: 16247)
+[2018-02-08 18:49:44 +0300] [16248] [INFO] Worker exiting (pid: 16248)
+[2018-02-08 18:49:44 +0300] [16242] [INFO] Shutting down: Master
+[2018-02-08 18:49:44 +0300] [16525] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 18:49:44 +0300] [16525] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16525)
+[2018-02-08 18:49:44 +0300] [16525] [INFO] Using worker: sync
+[2018-02-08 18:49:44 +0300] [16531] [INFO] Booting worker with pid: 16531
+[2018-02-08 18:49:44 +0300] [16532] [INFO] Booting worker with pid: 16532
+[2018-02-08 18:53:05 +0300] [16531] [INFO] Worker exiting (pid: 16531)
+[2018-02-08 18:53:05 +0300] [16532] [INFO] Worker exiting (pid: 16532)
+[2018-02-08 18:53:05 +0300] [16525] [INFO] Handling signal: term
+[2018-02-08 18:53:06 +0300] [16525] [INFO] Shutting down: Master
+[2018-02-08 18:53:06 +0300] [16598] [INFO] Starting gunicorn 19.7.1
+[2018-02-08 18:53:06 +0300] [16598] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (16598)
+[2018-02-08 18:53:06 +0300] [16598] [INFO] Using worker: sync
+[2018-02-08 18:53:06 +0300] [16603] [INFO] Booting worker with pid: 16603
+[2018-02-08 18:53:06 +0300] [16604] [INFO] Booting worker with pid: 16604
+[2018-02-09 09:57:52 +0300] [16598] [INFO] Handling signal: term
+[2018-02-09 09:57:52 +0300] [16603] [INFO] Worker exiting (pid: 16603)
+[2018-02-09 09:57:52 +0300] [16604] [INFO] Worker exiting (pid: 16604)
+[2018-02-09 09:57:53 +0300] [16598] [INFO] Shutting down: Master
+[2018-02-09 10:08:55 +0300] [21116] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 10:08:55 +0300] [21116] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (21116)
+[2018-02-09 10:08:55 +0300] [21116] [INFO] Using worker: sync
+[2018-02-09 10:08:55 +0300] [21121] [INFO] Booting worker with pid: 21121
+[2018-02-09 10:08:55 +0300] [21122] [INFO] Booting worker with pid: 21122
+[2018-02-09 10:13:50 +0300] [21116] [INFO] Handling signal: term
+[2018-02-09 10:13:50 +0300] [21121] [INFO] Worker exiting (pid: 21121)
+[2018-02-09 10:13:50 +0300] [21122] [INFO] Worker exiting (pid: 21122)
+[2018-02-09 10:13:50 +0300] [21116] [INFO] Shutting down: Master
+[2018-02-09 10:13:50 +0300] [21383] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 10:13:50 +0300] [21383] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (21383)
+[2018-02-09 10:13:50 +0300] [21383] [INFO] Using worker: sync
+[2018-02-09 10:13:50 +0300] [21389] [INFO] Booting worker with pid: 21389
+[2018-02-09 10:13:50 +0300] [21390] [INFO] Booting worker with pid: 21390
+[2018-02-09 10:15:27 +0300] [21383] [INFO] Handling signal: term
+[2018-02-09 10:15:27 +0300] [21389] [INFO] Worker exiting (pid: 21389)
+[2018-02-09 10:15:27 +0300] [21390] [INFO] Worker exiting (pid: 21390)
+[2018-02-09 10:15:27 +0300] [21383] [INFO] Shutting down: Master
+[2018-02-09 10:15:27 +0300] [21436] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 10:15:27 +0300] [21436] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (21436)
+[2018-02-09 10:15:27 +0300] [21436] [INFO] Using worker: sync
+[2018-02-09 10:15:27 +0300] [21442] [INFO] Booting worker with pid: 21442
+[2018-02-09 10:15:27 +0300] [21444] [INFO] Booting worker with pid: 21444
+[2018-02-09 12:54:13 +0300] [21436] [INFO] Handling signal: term
+[2018-02-09 12:54:13 +0300] [21442] [INFO] Worker exiting (pid: 21442)
+[2018-02-09 12:54:13 +0300] [21444] [INFO] Worker exiting (pid: 21444)
+[2018-02-09 12:54:14 +0300] [21436] [INFO] Shutting down: Master
+[2018-02-09 12:54:14 +0300] [22464] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 12:54:14 +0300] [22464] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (22464)
+[2018-02-09 12:54:14 +0300] [22464] [INFO] Using worker: sync
+[2018-02-09 12:54:14 +0300] [22469] [INFO] Booting worker with pid: 22469
+[2018-02-09 12:54:14 +0300] [22471] [INFO] Booting worker with pid: 22471
+[2018-02-09 13:01:58 +0300] [22469] [INFO] Worker exiting (pid: 22469)
+[2018-02-09 13:01:58 +0300] [22471] [INFO] Worker exiting (pid: 22471)
+[2018-02-09 13:01:58 +0300] [22464] [INFO] Handling signal: term
+[2018-02-09 13:01:58 +0300] [22464] [INFO] Shutting down: Master
+[2018-02-09 13:01:59 +0300] [22569] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:01:59 +0300] [22569] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (22569)
+[2018-02-09 13:01:59 +0300] [22569] [INFO] Using worker: sync
+[2018-02-09 13:01:59 +0300] [22575] [INFO] Booting worker with pid: 22575
+[2018-02-09 13:01:59 +0300] [22576] [INFO] Booting worker with pid: 22576
+[2018-02-09 13:04:19 +0300] [22569] [INFO] Handling signal: term
+[2018-02-09 13:04:19 +0300] [22576] [INFO] Worker exiting (pid: 22576)
+[2018-02-09 13:04:19 +0300] [22575] [INFO] Worker exiting (pid: 22575)
+[2018-02-09 13:04:19 +0300] [22569] [INFO] Shutting down: Master
+[2018-02-09 13:04:19 +0300] [22622] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:04:19 +0300] [22622] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (22622)
+[2018-02-09 13:04:19 +0300] [22622] [INFO] Using worker: sync
+[2018-02-09 13:04:19 +0300] [22629] [INFO] Booting worker with pid: 22629
+[2018-02-09 13:04:20 +0300] [22630] [INFO] Booting worker with pid: 22630
+[2018-02-09 13:05:03 +0300] [22622] [INFO] Handling signal: term
+[2018-02-09 13:05:03 +0300] [22629] [INFO] Worker exiting (pid: 22629)
+[2018-02-09 13:05:03 +0300] [22630] [INFO] Worker exiting (pid: 22630)
+[2018-02-09 13:05:03 +0300] [22622] [INFO] Shutting down: Master
+[2018-02-09 13:05:03 +0300] [22653] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:05:03 +0300] [22653] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (22653)
+[2018-02-09 13:05:03 +0300] [22653] [INFO] Using worker: sync
+[2018-02-09 13:05:03 +0300] [22658] [INFO] Booting worker with pid: 22658
+[2018-02-09 13:05:03 +0300] [22660] [INFO] Booting worker with pid: 22660
+[2018-02-09 13:05:50 +0300] [22653] [INFO] Handling signal: term
+[2018-02-09 13:05:50 +0300] [22658] [INFO] Worker exiting (pid: 22658)
+[2018-02-09 13:05:50 +0300] [22660] [INFO] Worker exiting (pid: 22660)
+[2018-02-09 13:05:50 +0300] [22653] [INFO] Shutting down: Master
+[2018-02-09 13:05:50 +0300] [22680] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:05:50 +0300] [22680] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (22680)
+[2018-02-09 13:05:50 +0300] [22680] [INFO] Using worker: sync
+[2018-02-09 13:05:50 +0300] [22685] [INFO] Booting worker with pid: 22685
+[2018-02-09 13:05:50 +0300] [22686] [INFO] Booting worker with pid: 22686
+[2018-02-09 13:08:49 +0300] [22680] [INFO] Handling signal: term
+[2018-02-09 13:08:49 +0300] [22686] [INFO] Worker exiting (pid: 22686)
+[2018-02-09 13:08:49 +0300] [22685] [INFO] Worker exiting (pid: 22685)
+[2018-02-09 13:08:49 +0300] [22680] [INFO] Shutting down: Master
+[2018-02-09 13:08:49 +0300] [22724] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:08:49 +0300] [22724] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (22724)
+[2018-02-09 13:08:49 +0300] [22724] [INFO] Using worker: sync
+[2018-02-09 13:08:49 +0300] [22730] [INFO] Booting worker with pid: 22730
+[2018-02-09 13:08:49 +0300] [22732] [INFO] Booting worker with pid: 22732
+[2018-02-09 13:28:35 +0300] [22724] [INFO] Handling signal: term
+[2018-02-09 13:28:35 +0300] [22730] [INFO] Worker exiting (pid: 22730)
+[2018-02-09 13:28:35 +0300] [22732] [INFO] Worker exiting (pid: 22732)
+[2018-02-09 13:28:35 +0300] [22724] [INFO] Shutting down: Master
+[2018-02-09 13:28:35 +0300] [22918] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:28:35 +0300] [22918] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (22918)
+[2018-02-09 13:28:35 +0300] [22918] [INFO] Using worker: sync
+[2018-02-09 13:28:35 +0300] [22923] [INFO] Booting worker with pid: 22923
+[2018-02-09 13:28:35 +0300] [22925] [INFO] Booting worker with pid: 22925
+[2018-02-09 13:30:48 +0300] [22918] [INFO] Handling signal: term
+[2018-02-09 13:30:48 +0300] [22923] [INFO] Worker exiting (pid: 22923)
+[2018-02-09 13:30:48 +0300] [22925] [INFO] Worker exiting (pid: 22925)
+[2018-02-09 13:30:48 +0300] [22918] [INFO] Shutting down: Master
+[2018-02-09 13:30:48 +0300] [22944] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:30:48 +0300] [22944] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (22944)
+[2018-02-09 13:30:48 +0300] [22944] [INFO] Using worker: sync
+[2018-02-09 13:30:48 +0300] [22951] [INFO] Booting worker with pid: 22951
+[2018-02-09 13:30:48 +0300] [22953] [INFO] Booting worker with pid: 22953
+[2018-02-09 13:34:23 +0300] [22944] [INFO] Handling signal: term
+[2018-02-09 13:34:23 +0300] [22953] [INFO] Worker exiting (pid: 22953)
+[2018-02-09 13:34:23 +0300] [22951] [INFO] Worker exiting (pid: 22951)
+[2018-02-09 13:34:24 +0300] [22944] [INFO] Shutting down: Master
+[2018-02-09 13:34:24 +0300] [23062] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:34:24 +0300] [23062] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (23062)
+[2018-02-09 13:34:24 +0300] [23062] [INFO] Using worker: sync
+[2018-02-09 13:34:24 +0300] [23067] [INFO] Booting worker with pid: 23067
+[2018-02-09 13:34:24 +0300] [23068] [INFO] Booting worker with pid: 23068
+[2018-02-09 13:37:04 +0300] [23062] [INFO] Handling signal: term
+[2018-02-09 13:37:04 +0300] [23068] [INFO] Worker exiting (pid: 23068)
+[2018-02-09 13:37:04 +0300] [23067] [INFO] Worker exiting (pid: 23067)
+[2018-02-09 13:37:04 +0300] [23062] [INFO] Shutting down: Master
+[2018-02-09 13:37:04 +0300] [23115] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:37:04 +0300] [23115] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (23115)
+[2018-02-09 13:37:04 +0300] [23115] [INFO] Using worker: sync
+[2018-02-09 13:37:04 +0300] [23122] [INFO] Booting worker with pid: 23122
+[2018-02-09 13:37:04 +0300] [23124] [INFO] Booting worker with pid: 23124
+[2018-02-09 13:37:05 +0300] [23122] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 24, in <module>
+    class Comment(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 25, in Comment
+    post = models.ForeignKey('blog.Post', related_name='comments')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-09 13:37:05 +0300] [23122] [INFO] Worker exiting (pid: 23122)
+[2018-02-09 13:37:05 +0300] [23124] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 24, in <module>
+    class Comment(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 25, in Comment
+    post = models.ForeignKey('blog.Post', related_name='comments')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-09 13:37:05 +0300] [23124] [INFO] Worker exiting (pid: 23124)
+[2018-02-09 13:37:29 +0300] [23143] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:37:29 +0300] [23143] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (23143)
+[2018-02-09 13:37:29 +0300] [23143] [INFO] Using worker: sync
+[2018-02-09 13:37:29 +0300] [23148] [INFO] Booting worker with pid: 23148
+[2018-02-09 13:37:29 +0300] [23149] [INFO] Booting worker with pid: 23149
+[2018-02-09 13:37:30 +0300] [23148] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 24, in <module>
+    class Comment(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 25, in Comment
+    post = models.ForeignKey('blog.Post', related_name='comments')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-09 13:37:30 +0300] [23148] [INFO] Worker exiting (pid: 23148)
+[2018-02-09 13:37:30 +0300] [23149] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/arbiter.py", line 578, in spawn_worker
+    worker.init_process()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 126, in init_process
+    self.load_wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/workers/base.py", line 135, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 65, in load
+    return self.load_wsgiapp()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/app/wsgiapp.py", line 52, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/gunicorn/util.py", line 352, in import_app
+    __import__(module)
+  File "/home/alex/prusenok/prusenok/wsgi.py", line 16, in <module>
+    application = get_wsgi_application()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/core/wsgi.py", line 12, in get_wsgi_application
+    django.setup(set_prefix=False)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/__init__.py", line 24, in setup
+    apps.populate(settings.INSTALLED_APPS)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/registry.py", line 112, in populate
+    app_config.import_models()
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/site-packages/django/apps/config.py", line 198, in import_models
+    self.models_module = import_module(models_module_name)
+  File "/home/alex/prusenok/prusenokenv/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/home/alex/prusenok/blog/models.py", line 24, in <module>
+    class Comment(models.Model):
+  File "/home/alex/prusenok/blog/models.py", line 25, in Comment
+    post = models.ForeignKey('blog.Post', related_name='comments')
+TypeError: __init__() missing 1 required positional argument: 'on_delete'
+[2018-02-09 13:37:30 +0300] [23149] [INFO] Worker exiting (pid: 23149)
+[2018-02-09 13:37:30 +0300] [23143] [INFO] Shutting down: Master
+[2018-02-09 13:37:30 +0300] [23143] [INFO] Reason: Worker failed to boot.
+[2018-02-09 13:44:34 +0300] [23192] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 13:44:34 +0300] [23192] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (23192)
+[2018-02-09 13:44:34 +0300] [23192] [INFO] Using worker: sync
+[2018-02-09 13:44:34 +0300] [23198] [INFO] Booting worker with pid: 23198
+[2018-02-09 13:44:34 +0300] [23199] [INFO] Booting worker with pid: 23199
+[2018-02-09 13:51:26 +0300] [23192] [INFO] Handling signal: term
+[2018-02-09 13:51:26 +0300] [23198] [INFO] Worker exiting (pid: 23198)
+[2018-02-09 13:51:26 +0300] [23199] [INFO] Worker exiting (pid: 23199)
+[2018-02-09 13:51:26 +0300] [23192] [INFO] Shutting down: Master
+[2018-02-09 14:02:02 +0300] [23509] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 14:02:02 +0300] [23509] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (23509)
+[2018-02-09 14:02:02 +0300] [23509] [INFO] Using worker: sync
+[2018-02-09 14:02:02 +0300] [23515] [INFO] Booting worker with pid: 23515
+[2018-02-09 14:02:02 +0300] [23516] [INFO] Booting worker with pid: 23516
+[2018-02-09 14:12:45 +0300] [23509] [INFO] Handling signal: term
+[2018-02-09 14:12:45 +0300] [23515] [INFO] Worker exiting (pid: 23515)
+[2018-02-09 14:12:45 +0300] [23516] [INFO] Worker exiting (pid: 23516)
+[2018-02-09 14:12:45 +0300] [23509] [INFO] Shutting down: Master
+[2018-02-09 14:12:46 +0300] [23807] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 14:12:46 +0300] [23807] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (23807)
+[2018-02-09 14:12:46 +0300] [23807] [INFO] Using worker: sync
+[2018-02-09 14:12:46 +0300] [23813] [INFO] Booting worker with pid: 23813
+[2018-02-09 14:12:46 +0300] [23814] [INFO] Booting worker with pid: 23814
+[2018-02-09 14:16:09 +0300] [23813] [INFO] Worker exiting (pid: 23813)
+[2018-02-09 14:16:09 +0300] [23814] [INFO] Worker exiting (pid: 23814)
+[2018-02-09 14:16:09 +0300] [23807] [INFO] Handling signal: term
+[2018-02-09 14:16:09 +0300] [23807] [INFO] Shutting down: Master
+[2018-02-09 14:16:09 +0300] [23907] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 14:16:09 +0300] [23907] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (23907)
+[2018-02-09 14:16:09 +0300] [23907] [INFO] Using worker: sync
+[2018-02-09 14:16:09 +0300] [23913] [INFO] Booting worker with pid: 23913
+[2018-02-09 14:16:09 +0300] [23915] [INFO] Booting worker with pid: 23915
+[2018-02-09 14:17:47 +0300] [23907] [INFO] Handling signal: term
+[2018-02-09 14:17:47 +0300] [23913] [INFO] Worker exiting (pid: 23913)
+[2018-02-09 14:17:47 +0300] [23915] [INFO] Worker exiting (pid: 23915)
+[2018-02-09 14:17:47 +0300] [23907] [INFO] Shutting down: Master
+[2018-02-09 14:17:48 +0300] [23974] [INFO] Starting gunicorn 19.7.1
+[2018-02-09 14:17:48 +0300] [23974] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (23974)
+[2018-02-09 14:17:48 +0300] [23974] [INFO] Using worker: sync
+[2018-02-09 14:17:48 +0300] [23980] [INFO] Booting worker with pid: 23980
+[2018-02-09 14:17:48 +0300] [23981] [INFO] Booting worker with pid: 23981
+[2018-02-12 12:31:01 +0300] [23974] [INFO] Handling signal: term
+[2018-02-12 12:31:01 +0300] [23980] [INFO] Worker exiting (pid: 23980)
+[2018-02-12 12:31:01 +0300] [23981] [INFO] Worker exiting (pid: 23981)
+[2018-02-12 12:31:01 +0300] [23974] [INFO] Shutting down: Master
+[2018-02-12 12:31:01 +0300] [6866] [INFO] Starting gunicorn 19.7.1
+[2018-02-12 12:31:01 +0300] [6866] [INFO] Listening at: unix:/home/alex/prusenok/prusenok.sock (6866)
+[2018-02-12 12:31:01 +0300] [6866] [INFO] Using worker: sync
+[2018-02-12 12:31:01 +0300] [6873] [INFO] Booting worker with pid: 6873
+[2018-02-12 12:31:01 +0300] [6874] [INFO] Booting worker with pid: 6874

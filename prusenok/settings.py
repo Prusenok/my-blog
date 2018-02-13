@@ -25,7 +25,7 @@ SECRET_KEY = 'by_6hr^u9(%a72rs9mi_m2f##yka*q8$dbrxujim#w9nupvf%u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['prusenok.ml']
+ALLOWED_HOSTS = ['127.0.0.1', 'prusenok.ml']
 
 
 # Application definition
@@ -37,7 +37,6 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-
 # My Pages will be listed here
     'blog',
 ]
@@ -105,6 +104,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+LOGIN_REDIRECT_URL = '/'
 
 # Internationalization
 # https://docs.djangoproject.com/en/2.0/topics/i18n/
@@ -124,4 +124,10 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, 'static/')
+#STATIC_ROOT = ''
+#STATICFILES_DIRS = (
+#    os.path.join(BASE_DIR, "static"),
+#    '/home/alex/prusenok/static/',
+#)
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+#STATIC_ROOT = "/home/alex/prusenok/blog/static/"
